@@ -4,7 +4,11 @@
 
 ### 🎯 O mnie
 
-Studiuję ekonomię na Uniwersytecie Ekonomicznym w Poznaniu. Na ostatnim stażu w zespole Master Data w ROCKWOOL pracowałam z danymi klientów w SAP, przygotowywałam raporty i sprawdzałam przyczyny błędów w danych. W pracy magisterskiej analizuję model biznesowy Revoluta i rozwój firmy w latach 2021–2025.
+Jestem na **II roku studiów magisterskich z ekonomii** na Uniwersytecie Ekonomicznym w Poznaniu. W pracy magisterskiej analizuję model biznesowy Revoluta i rozwój firmy w latach 2021–2025.
+
+W **czerwcu 2025 r.** ukończyłam **zarządzanie na Uniwersytecie Zielonogórskim**, uzyskując tytuł licencjata. Temat mojej pracy licencjackiej to *Nowoczesne podejścia do budowania przewagi konkurencyjnej przedsiębiorstw w Polsce i Europie*.
+
+Na ostatnim stażu w zespole Master Data w ROCKWOOL pracowałam z danymi klientów w SAP, przygotowywałam raporty i sprawdzałam przyczyny błędów w danych.
 
 ### 🗂️ Moje projekty
 
