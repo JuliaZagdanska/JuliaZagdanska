@@ -21,13 +21,16 @@ Studiuję ekonomię na Uniwersytecie Ekonomicznym w Poznaniu. Na ostatnim stażu
 - **Microsoft Excel**, **Power BI**, **Looker Studio**
 - **SAP**
 
-### 🎓 Wybrane kursy
+### 🎓 Kursy i certyfikaty
 
-- **Introduction to Power BI** – DataCamp
-- **SQL Essentials**
+- **Introduction to Python** – DataCamp, listopad 2026
+- **Intermediate SQL** – DataCamp, listopad 2026
+- **Introduction to Power BI** – DataCamp, listopad 2026
+- **SQL Essential Training** – LinkedIn, sierpień 2026
 - **EY Strategy and Corporate Finance** – EY, styczeń 2026
-- **Designing for User Experience** – Microsoft, sierpień 2024
+- **Lean Six Sigma White Belt Certification** – GLSS (GoLeanSixSigma.com), grudzień 2025 (ważny do grudnia 2027)
 - **Fundamentals of UI/UX Design** – Microsoft, sierpień 2024
+- **Designing for User Experience** – Microsoft, sierpień 2024
 
 ### 🚀 Cel
 
