@@ -1,43 +1,37 @@
 # Julia Zagdańska
 
-**Analiza danych · Ekonomia · E-commerce**
+**Analiza danych · Ekonomia**
 
 ### 🎯 O mnie
 
-Studiuję ekonomię na Uniwersytecie Ekonomicznym w Poznaniu. Na stażu w zespole Master Data w ROCKWOOL pracowałam z danymi klientów w SAP, przygotowywałam raporty i szukałam przyczyn błędów w danych. W pracy magisterskiej badam model biznesowy Revoluta i jego rozwój w latach 2021–2025.
-
-Po godzinach gram w tenisa i zajmuję się fotografią.
-
-### 🛠️ Technologie, z których korzystam
-
-- **SQL i BigQuery** – analiza zdarzeń i obliczanie wskaźników.
-- **Python (Pandas, Matplotlib)** – sprawdzanie danych i tworzenie wykresów.
-- **Looker Studio** – budowa dashboardu i prezentowanie wyników.
-- **Excel i Power BI** – pracuję w Excelu, a Power BI rozwijam na kursach i w ćwiczeniach.
-
-### 📂 Co tu publikuję
-
-Do kodu dołączam opis źródła danych, sposób liczenia wskaźników i krótkie wnioski. Chcę, żeby dało się prześledzić analizę od zapytania SQL do wyników na dashboardzie.
+Studiuję ekonomię na Uniwersytecie Ekonomicznym w Poznaniu. Na ostatnim stażu w zespole Master Data w ROCKWOOL pracowałam z danymi klientów w SAP, przygotowywałam raporty i sprawdzałam przyczyny błędów w danych. W pracy magisterskiej analizuję model biznesowy Revoluta i rozwój firmy w latach 2021–2025.
 
 ### 🗂️ Moje projekty
 
-- [📊 Analiza konwersji w e-commerce](https://github.com/JuliaZagdanska/ecommerce-conversion-analysis) – Na publicznych danych GA4 sklepu Google Merchandise Store sprawdziłam, ilu użytkowników kupiło po wcześniejszym obejrzeniu produktu. Porównałam też konwersję na telefonach i komputerach. W repozytorium są zapytania BigQuery, notebook z Pandas i dashboard Looker Studio.
+- [📊 Analiza konwersji zakupowej](https://github.com/JuliaZagdanska/ecommerce-conversion-analysis) – W publicznej próbce GA4 Google Merchandise Store **7,07%** oglądających produkty dokonało pierwszego zakupu po pierwszym wyświetleniu w badanym miesiącu. Sprawdziłam też, jak wynik różnił się między telefonem a komputerem. W repozytorium można prześledzić zapytania, definicje metryk i wnioski.
 
 <a href="https://github.com/JuliaZagdanska/ecommerce-conversion-analysis">
-  <img src="https://raw.githubusercontent.com/JuliaZagdanska/ecommerce-conversion-analysis/main/dashboard/dashboard.png" alt="Podgląd dashboardu analizy konwersji w e-commerce za listopad 2020" width="620">
+  <img src="https://raw.githubusercontent.com/JuliaZagdanska/JuliaZagdanska/main/assets/aktywnosc-zakupowa.png" alt="Liczba unikalnych użytkowników według zdarzenia zakupowego w listopadzie 2020" width="620">
 </a>
 
-### 🎓 Ukończone kursy
+### 🛠️ Narzędzia
+
+- **SQL** (BigQuery, SQLite)
+- **Python** (Pandas, Matplotlib)
+- **Microsoft Excel**, **Power BI**, **Looker Studio**
+- **SAP**
+
+### 🎓 Wybrane kursy
 
 - **Introduction to Power BI** – DataCamp
 - **SQL Essentials**
-- **EY Strategy and Corporate Finance** – EY (styczeń 2026)
-- **Designing for User Experience** – Microsoft (sierpień 2024)
-- **Fundamentals of UI/UX Design** – Microsoft (sierpień 2024)
+- **EY Strategy and Corporate Finance** – EY, styczeń 2026
+- **Designing for User Experience** – Microsoft, sierpień 2024
+- **Fundamentals of UI/UX Design** – Microsoft, sierpień 2024
 
 ### 🚀 Cel
 
-Szukam stażu w analizie danych, biznesowej lub produktowej. Najbardziej interesuje mnie e-commerce i to, jak dane o zachowaniu użytkowników mogą pomóc zespołowi podjąć decyzję o produkcie.
+Szukam stażu w analizie danych, biznesowej lub produktowej. Chcę rozwijać się w analizie zachowań użytkowników i przygotowywaniu wniosków, które pomagają zespołom podejmować decyzje.
 
 ### 📬 Kontakt
 
