@@ -9,6 +9,8 @@ Jestem na **II roku studiów magisterskich z ekonomii** na Uniwersytecie Ekonomi
 W **czerwcu 2025 r.** ukończyłam **zarządzanie na Uniwersytecie Zielonogórskim**, uzyskując tytuł licencjata. Temat mojej pracy licencjackiej to *Nowoczesne podejścia do budowania przewagi konkurencyjnej przedsiębiorstw w Polsce i Europie*.
 
 Na ostatnim stażu w zespole Master Data w ROCKWOOL pracowałam z danymi klientów w SAP, przygotowywałam raporty i sprawdzałam przyczyny błędów w danych.
+Szukam pracy lub stażu w analizie danych. Interesują mnie role, w których mogę korzystać z SQL i Power BI, żeby odpowiadać na pytania biznesowe.
+
 
 ### 🗂️ Moje projekty
 
@@ -35,10 +37,6 @@ Na ostatnim stażu w zespole Master Data w ROCKWOOL pracowałam z danymi klient�
 - **Lean Six Sigma White Belt Certification** – GLSS (GoLeanSixSigma.com), grudzień 2025 (ważny do grudnia 2027)
 - **Fundamentals of UI/UX Design** – Microsoft, sierpień 2024
 - **Designing for User Experience** – Microsoft, sierpień 2024
-
-### 🚀 Cel
-
-Szukam stażu w analizie danych, biznesowej lub produktowej. Chcę rozwijać się w analizie zachowań użytkowników i przygotowywaniu wniosków, które pomagają zespołom podejmować decyzje.
 
 ### 📬 Kontakt
 
