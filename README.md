@@ -9,8 +9,8 @@ Jestem na **II roku studiów magisterskich z ekonomii** na Uniwersytecie Ekonomi
 W **czerwcu 2025 r.** ukończyłam **zarządzanie na Uniwersytecie Zielonogórskim**, uzyskując tytuł licencjata. Temat mojej pracy licencjackiej to *Nowoczesne podejścia do budowania przewagi konkurencyjnej przedsiębiorstw w Polsce i Europie*.
 
 Na ostatnim stażu w zespole Master Data w ROCKWOOL pracowałam z danymi klientów w SAP, przygotowywałam raporty i sprawdzałam przyczyny błędów w danych.
-Szukam pracy lub stażu w analizie danych. Interesują mnie role, w których mogę korzystać z SQL i Power BI, żeby odpowiadać na pytania biznesowe.
 
+Interesuję się **analizą danych i analizą biznesową**. Szukam **stażu lub pracy** w tym obszarze, z możliwością korzystania z SQL i Power BI.
 
 ### 🗂️ Moje projekty
 
