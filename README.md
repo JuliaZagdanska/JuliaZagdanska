@@ -10,7 +10,7 @@ W **czerwcu 2025 r.** ukończyłam **zarządzanie na Uniwersytecie Zielonogórsk
 
 Na ostatnim stażu w zespole Master Data w ROCKWOOL pracowałam z danymi klientów w SAP, przygotowywałam raporty i sprawdzałam przyczyny błędów w danych.
 
-Interesuję się analizą danych i analizą biznesową. Obecnie szukam możliwości rozwoju zawodowego w tych obszarach.
+Interesuje mnie analiza danych w biznesie, szczególnie praca z SQL i Power BI. Szukam możliwości rozwoju zawodowego jako analityczka danych lub analityczka biznesowa.
 
 ### 🗂️ Moje projekty
 
