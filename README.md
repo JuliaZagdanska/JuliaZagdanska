@@ -10,7 +10,7 @@ W **czerwcu 2025 r.** ukończyłam **zarządzanie na Uniwersytecie Zielonogórsk
 
 Na ostatnim stażu w zespole Master Data w ROCKWOOL pracowałam z danymi klientów w SAP, przygotowywałam raporty i sprawdzałam przyczyny błędów w danych.
 
-Interesuję się **analizą danych i analizą biznesową**. Szukam **stażu lub pracy** w tym obszarze, z możliwością korzystania z SQL i Power BI.
+Szukam stażu lub pracy w **analizie danych albo analizie biznesowej**. Chcę pracować z SQL i Power BI, żeby lepiej rozumieć wyniki firmy i jasno je przedstawiać.
 
 ### 🗂️ Moje projekty
 
